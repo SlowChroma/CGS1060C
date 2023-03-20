@@ -1,1 +1,1 @@
-# CGS1060C
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SlowChroma/CGS1060C/HEAD)
